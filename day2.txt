@@ -1,0 +1,17 @@
+# Basic Probability
+After rolling 2 six-sided dice, probability that their sum is at most 9, P(sum <= 9) equals to 1 - P(sum > 9)
+i.e.  P(sum <= 9) = 1 - P(sum > 9)
+Pair of die sides that sum more than 9 are (4, 6), (5, 5), (6, 4), (5, 6), (6, 5) and (6, 6). There are 6 of 36 occurences.
+Then P(sum > 9) = 1 - 6/36 = 5/6
+
+# More Dice
+To have sum of the sides 6 and having different value, all possible pairs are (1, 5), (2, 4), (4, 2) and (5, 1).
+There are 4 of 36 occurences.
+Therefore the probability is 4/36 which simplified into 1/9
+
+# Compound Event
+To draw 2 red ball (R) and a black ball (B) we might draw RRB, RBR, and BRR from X, Y and Z urn respectively.
+Probability to draw red, red, then black ball from the urns is 4/7 * 5/9 * 4/8 = 20/126
+Probability to draw red, black, then red ball from the urns is 4/7 * 4/9 * 4/8 = 16/126
+Probability to draw black, red, then red ball from the urns is 3/7 * 5/9 * 4/8 = 15/126
+Hence the total probability is (20 + 16 + 15)/126 = 17/42

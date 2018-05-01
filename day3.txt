@@ -1,0 +1,9 @@
+# Conditional Probability
+Probability that both children are boys is 1/2 * 1/2 = 1/4
+
+# Cards of the Same Suit
+Probability drawing 2 cards with same specific suit is 13/52 * 12/51.
+Since there are 4 kuid of suits then the probability is 4 * 13/52 * 12/51 = 4/17
+
+# Drawing Marbles
+If the first marble is red then there are 2 remaining red marbles. Then new probability drawing blue marble is 4/6 or 2/3.
