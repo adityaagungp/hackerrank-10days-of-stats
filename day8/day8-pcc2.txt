@@ -1,0 +1,8 @@
+# From equation (1) we know that y = -3/4 x - 2
+# From equation (2) we know that x = -3/4 y - 7/4
+
+# Both lines are in form of Y = a + bX. To calculate P we should see its correlation with b from both equations.
+# From equation (1) we get -3/4 = P O_y/O_x
+# From equation (2) we get -3/4 = P O_x/O_y
+# Multiply both, we get (-3/4)^2 = P^2 which gives P = -3/4.
+# Negative answer is selected here because the original line has negative slope.
